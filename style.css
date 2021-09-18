@@ -1,0 +1,30 @@
+section {
+    min-height: 420px;
+}
+
+.gov {
+    text-decoration: none;
+    color: #fff;
+}
+
+.gov:hover {
+    color: #0dcaf0;
+}
+
+hr {
+    width: 10px;
+    text-align: right;
+    padding-left: 50%;
+}
+
+.bg-teal {
+    background-color: teal;
+}
+
+.jumbotron {
+    margin-top: 55px;
+}
+
+.profile-pic {
+    width: 200px;
+}
